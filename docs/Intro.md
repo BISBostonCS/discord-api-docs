@@ -16,25 +16,6 @@ Discord offers an open API to serve requests for both bots and OAuth2 integratio
 
 So go do it! Go! Go [make an app](https://discord.com/developers/applications) and create something awesome.
 
-## Games
-
-We love games, and we love helping game developers. If YOU have a game that you want to supercharge with Discord, then we have just the thing for you.
-
-#### Your Game On Discord
-
-If you haven’t yet noticed, Discord allows you to [sell your game](https://discord.com/sell-your-game) right from Discord servers! We’ve got a whole suite of tools to help bring your game to life on Discord. Need networking? Have [networking](#DOCS_GAME_SDK_NETWORKING/)! Want a friends list? Take [relationships](#DOCS_GAME_SDK_RELATIONSHIPS/) too!
-
-#### Rich Presence
-
-No matter where your game lives, it should have a first-class experience in Discord. [Rich Presence](https://discord.com/rich-presence) is the way to make that a reality! We got tired of exchanging usernames, friend codes, and lobby passwords, so we created Rich Presence, an easy-to-use, easy-to-integrate way to get people playing games together that lets you:
-
-- Display rich game data on your players’ profiles
-- Empower them to send game invites to each other
-- Ask to Join and Spectate their friends' games
-- Spend more time playing together and less time setting up
-
-It’s free, easy, and self-serve, so check out [the GameSDK Activity Manager](#DOCS_GAME_SDK_ACTIVITIES/) and get started!
-
 ## Still need some help?
 
 Join the [Official Discord Developers server](https://discord.gg/discord-developers) for support and discussion regarding Discord's APIs.
